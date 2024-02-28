@@ -1,0 +1,1 @@
+google_storage_bucket = "test-lavanya1234"
